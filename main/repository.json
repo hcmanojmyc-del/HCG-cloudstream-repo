@@ -4,7 +4,7 @@
   "list": [
     {
       "name": "VidBox Plugin",
-      "file": "https://raw.githubusercontent.com/hcmanojmyc-del/my-cloudstream-repo/main/VidBoxPlugin.apk",
+      "file": "https://raw.githubusercontent.com/hcmanojmyc-del/main/src/kotlin/hcgproviderplugin.kt",
       "versionCode": 1,
       "description": "Stream movies from VidBox"
     }
